@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📈 GitHub Stats
 
-![ViYomX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViYomX&show_icons=true&theme=radical)
+![ViYomX's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekkumar-in&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
